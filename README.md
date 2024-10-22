@@ -1,8 +1,8 @@
-# Cryptography---Exp-9-RSA-Rivest-Shamir-Adleman-algorithm
-# AIM:
+# RSA-Rivest-Shamir-Adleman-algorithm
+## AIM:
 To encrypt and decrypt a given message using the RSA (Rivest-Shamir-Adleman) algorithm.
 
-# DESIGN STEPS:
+## DESIGN STEPS:
 Step 1:
 Design the RSA algorithm.
 
@@ -12,7 +12,7 @@ Implement the RSA algorithm using C or Python.
 Step 3:
 The RSA algorithm involves two keys: a public key for encryption and a private key for decryption. The keys are generated based on two large prime numbers. The encryption process uses the public key to convert plaintext into ciphertext, and decryption uses the private key to retrieve the original message.
 
-# PROGRAM:
+## PROGRAM:
 ```
 #include <stdio.h>
 #include <string.h>
@@ -105,8 +105,8 @@ int main() {
     return 0;
 }
 ```
-# OUTPUT:
+## OUTPUT:
 ![Screenshot 2024-10-13 163403](https://github.com/user-attachments/assets/32cb391d-3fec-455c-88b7-aedab02cf152)
 
-# RESULT:
+## RESULT:
 The program for the RSA algorithm is executed successfully.
